@@ -46,25 +46,6 @@ In.orbit visa transformar a maneira como você define e alcança seus objetivos,
 - @Fastify/swagger
 - @Fastify/swagger-ui
 
-# 👷 Para executar o projeto:
-## Inicie o front-end
-
-Clonar repositório
-
-```
-https://github.com/carolprotasio/in.orbit-frontend.git
-```
-Instalar dependências
-
-```
-npm i
-```
-Iniciar aplicação
-
-```
-npm run dev
-```
-
 # Créditos
 Este projeto foi desenvolvido com base no tutorial oferecido pela Rocketseat durante o evento NLW. Agradeço à equipe da Rocketseat por fornecer recursos valiosos e conhecimento técnico.
 
